@@ -20,7 +20,7 @@ Proud of:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatteoMagnini&theme=nord_dark)
 
-[![Matteo's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MatteoMagnini&theme=nord&row=2&column=6&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![Matteo's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MatteoMagnini&theme=nord&row=2&column=4&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatteoMagnini&theme=nord&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
