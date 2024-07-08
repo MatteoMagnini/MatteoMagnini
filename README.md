@@ -24,7 +24,7 @@ Proud of:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatteoMagnini&mode=weekly&theme=meta_dark&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-![Matteo's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MatteoMagnini&theme=nord_dark)
+![Matteo's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MatteoMagnini&theme=nord)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoMagnini&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
