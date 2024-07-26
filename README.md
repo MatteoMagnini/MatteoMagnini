@@ -11,6 +11,7 @@ If you're interested, my Curriculum Vitae is [here](https://github.com/MatteoMag
 Proud of:
 
 [![PSyKI](https://github-readme-stats.vercel.app/api/pin/?username=psykei&repo=psyki-python&theme=nord)](https://github.com/psykei/psyki-python)
+[![HyperTensionBot](https://github-readme-stats.vercel.app/api/pin/?username=MatteoMagnini&repo=hyperTensionBot&theme=nord)](https://github.com/psykei/psyki-python)
 
 </div>
 
@@ -20,7 +21,7 @@ Proud of:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatteoMagnini&theme=nord_dark)
 
-[![Matteo's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MatteoMagnini&theme=nord&row=2&column=4&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![Matteo's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MatteoMagnini&theme=nord&row=2&column=3&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatteoMagnini&mode=weekly&theme=meta_dark&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
