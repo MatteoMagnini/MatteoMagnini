@@ -11,7 +11,7 @@ If you're interested, my Curriculum Vitae is [here](https://github.com/MatteoMag
 Proud of:
 
 [![PSyKI](https://github-readme-stats.vercel.app/api/pin/?username=psykei&repo=psyki-python&theme=nord)](https://github.com/psykei/psyki-python)
-[![HyperTensionBot](https://github-readme-stats.vercel.app/api/pin/?username=MatteoMagnini&repo=hyperTensionBot&theme=nord)](https://github.com/psykei/psyki-python)
+[![HyperTensionBot](https://github-readme-stats.vercel.app/api/pin/?username=MatteoMagnini&repo=hyperTensionBot&theme=nord)](https://github.com/MatteoMagnini/hyperTensionBot)
 
 </div>
 
