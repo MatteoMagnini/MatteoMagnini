@@ -4,6 +4,10 @@ My interests vary from Artificial Intelligence, Neuro-Symbolic approaches, Fairn
 
 If you're interested, my Curriculum Vitae is [here](https://github.com/MatteoMagnini/cv/releases/latest/download/cv.pdf).
 
+For my students:
+- [Distributed Systems Final Report Template](https://github.com/MatteoMagnini/distributed-systems-final-report)
+- [Distributed Systems Python 101](https://github.com/MatteoMagnini/distributed-systems-python-101)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=MatteoMagnini&color=blueviolet&style=for-the-badge)
 
 <div align="center">
