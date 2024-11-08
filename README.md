@@ -8,6 +8,9 @@ For my students:
 - [Distributed Systems Final Report Template](https://github.com/unibo-fc-isi-ds/template-final-report)
 - [Distributed Systems Python 101](https://github.com/MatteoMagnini/distributed-systems-python-101)
 
+For fellow colleagues:
+- [Latex Github Template for Scientific Papers](https://github.com/MatteoMagnini/paper-template)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=MatteoMagnini&color=blueviolet&style=for-the-badge)
 
 <div align="center">
