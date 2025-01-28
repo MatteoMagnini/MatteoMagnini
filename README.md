@@ -30,7 +30,7 @@ Proud of:
 
 [![Matteo's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MatteoMagnini&theme=nord&row=2&column=3&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatteoMagnini&mode=weekly&theme=meta_dark&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatteoMagnini&mode=weekly&theme=meta_dark)](https://git.io/streak-stats)
 
 ![Matteo's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MatteoMagnini&theme=nord)
 
